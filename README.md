@@ -7,7 +7,7 @@ I'll probably update this with things I use frequently.
 Use it:
 
 ```
-npx degit IbraheemR/p5template
+npx degit IbraheemR/p5template <project name>
 ```
 
 Loads the latest version of p5 from jsdelivr.net - probably not safe for production.
